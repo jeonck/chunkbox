@@ -1,0 +1,23 @@
+/* Check Yourself 섹션의 <details> 정답 토글 스타일 */
+.post-content details {
+  margin: 0.4rem 0 1.2rem;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--code-bg);
+}
+
+.post-content details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--secondary);
+  user-select: none;
+}
+
+.post-content details[open] summary {
+  margin-bottom: 0.4rem;
+}
+
+.post-content details p {
+  margin: 0.3rem 0 0.2rem;
+}

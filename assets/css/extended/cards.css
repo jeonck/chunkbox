@@ -1,0 +1,38 @@
+/* 홈 인포 섹션(제목+설명+소셜아이콘)과 첫 포스트 카드 사이의 불필요한 빈 여백 제거.
+   PaperMod의 post-entry.css가 .first-entry에 min-height:320px + 하단 마진을 강제해
+   콘텐츠 높이와 무관하게 큰 공백이 생김. 테마 파일은 직접 수정하지 않는다 — 이 파일이
+   PaperMod가 지원하는 assets/css/extended/*.css 오버라이드 훅이다. */
+.first-entry {
+  min-height: unset;
+  margin-bottom: 0;
+}
+
+/* 목록 페이지(홈/Posts/Tags/태그별 목록)의 post-entry를 카드 그리드로 배치 */
+@media (min-width: 768px) {
+  body.list .main {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    align-items: start;
+    /* .main의 min-height(100vh - header - footer) 남는 공간이 행에 분배되어
+       인트로/카드 사이가 벌어지는 것 방지 — 행을 위쪽에 밀착 */
+    align-content: start;
+    gap: 1.5rem;
+  }
+
+  body.list .main > .page-header,
+  body.list .main > .post-content,
+  body.list .main > .first-entry,
+  body.list .main > .page-footer {
+    grid-column: 1 / -1;
+  }
+
+  body.list .main > .post-entry {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  body.list .main > .post-entry .entry-content {
+    flex: 1;
+  }
+}

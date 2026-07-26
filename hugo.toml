@@ -1,0 +1,67 @@
+baseURL = 'https://chunkbox.metacog.co.kr/'
+locale = 'en-us'
+title = 'ChunkBox'
+theme = 'PaperMod'
+paginate = 10
+
+[params]
+  env = 'production'
+  title = 'ChunkBox'
+  description = '영어 스크립트를 붙여넣으면 청크(구동사·표현)별 예문, 한글 번역, 활용 대화, 퀴즈를 자동 생성하는 사이트'
+  author = 'jeonck'
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = 'ChunkBox'
+    Content = '영어 스크립트를 붙여넣으면 청크(구동사·표현)마다 예문 · 한글 번역 · 활용 대화 · 퀴즈를 자동으로 만들어 드려요.'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/jeonck/chunkbox'
+
+[menu]
+  [[menu.main]]
+    identifier = 'input'
+    name = 'Add Script ✏️'
+    url = 'https://github.com/jeonck/chunkbox/edit/main/input/script.md'
+    weight = 5
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'search'
+    name = 'Search'
+    url = '/search/'
+    weight = 30
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+# Quiz sections use raw HTML <details>/<summary> accordions in generated posts
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
