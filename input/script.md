@@ -119,3 +119,4 @@
  think up ([40:37]) - 생각해내다
 참고 영상: http://www.youtube.com/watch?v=THWChCZ8scU
 ```
+
