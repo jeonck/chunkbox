@@ -15,19 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-GET의 기본 감각
- 모든 의미의 공통점은 **'무언가가 내 쪽으로 오는 느낌'**입니다 [00:48].
- 다가오거나, 가져오거나, 장소에 닿거나, 정보가 머릿속에 들어오는 등의 감각으로 확장됩니다 [00:58].
- GET의 6가지 핵심 의미
-1. 받다 / 사다 / 병에 걸리다 (예: ⁠I got it on the internet⁠ [01:36], ⁠I got a cold⁠ [01:55])
-2. 가져오다 / 데려오다 (예: ⁠Can you get me a glass of water?⁠ [02:49])
-3. 도착하다 (예: ⁠What time did you get home?⁠ [03:42])
-4. 이해하다 (예: ⁠I don't get it⁠ [04:30])
-5. 전화를 받다 / 문에 나가 보다 (예: ⁠I'll get the door⁠ [05:21])
-6. 하게 되다 / 시키다 (예: ⁠I got fat⁠ [06:14], ⁠I got my hair done⁠ [07:07])
- GET 구동사 활용 (GET + 전치사)
- ⁠get on⁠ / ⁠get off⁠ (탑승 및 하차, 퇴근 등) [51:49]
- ⁠get over⁠ / ⁠get through⁠ (극복하다, 이겨내다) [52:37]
- ⁠get away⁠ / ⁠get back⁠ / ⁠get into⁠ / ⁠get out⁠ 등 다양한 전치사 조합을 통한 이미지 중심의 학습법을 다룹니다.
 ```
 
