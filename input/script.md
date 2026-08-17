@@ -15,104 +15,119 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-제공해주신 유튜브 영상 ("87 Best American English Phrases")에서 다룬 87가지 미국 영어 표현의 전체 목록입니다.
-## 1. Home & Making Plans (집과 계획 관련)
- * I'm just trying to make it through the day – (힘든 하루를) 그저 버텨내려고 애쓰는 중이다.
- * Give me a heads up – 미리 알려주다 / 언질을 주다.
- * I'm not ready to deal with that right now – 지금은 그것을 처리할 여유가 없다.
- * Let's not overcomplicate things – 일을 너무 복잡하게 만들지 말자.
- * I've been meaning to do that – (전부터) 하려고 마음먹고 있었다.
- * That's the last thing I need right now – 지금 내게 가장 필요 없는(가장 곤란한) 일이다.
- * I'll take care of this when I get a chance – 짬이 날 때 이것을 처리하겠다.
-## 2. Scheduling & Keeping Time (일정과 시간 관리)
- * We need to keep things moving – (지체하지 않고) 계속 진행해야 한다.
- * Can we make this quick? – 좀 간단히(짧게) 할 수 있을까요?
- * Get everyone on the same page – 모두가 상황을 똑같이 이해하게(공감하게) 만들다.
- * We're cutting it close – 시간이(또는 상황이) 아주 빠듯하다.
- * Let's make the most of it / Let's make the best of it – (상황을 최선으로 활용해) 최대한 즐기자.
- * I'm doing my best to stay organized – 일정(정리)을 유지하려고 최선을 다하고 있다.
- * We'll cross that bridge when we get there – 그 문제에 직면하면 그때 가서 생각하자.
-## 3. Social Life & Friendly Conversations (사교 및 친근한 대화)
- * I'm down (if you are) – (너도 좋다면) 나도 좋아, 할게.
- * I'm not totally sold on that idea – 그 아이디어가 완전히 내키지는 않는다.
- * Go with the flow – 흐름에 몸을 맡기다 / 대세에 따르다.
- * That actually turned out better than I expected – 생각보다 훨씬 결과가 좋았다.
- * I don't know how to bring this up – 이걸 어떻게 꺼내야 할지 모르겠어.
- * I wasn't sure what to make of it – 그것을 어떻게 받아들여야 할지(어떻게 해석해야 할지) 몰랐다.
- * That's exactly what I was getting at – 그게 바로 내가 하려던 말이(뜻하던 바가)야.
-## 4. Restaurants, Stores & Errands (식당, 상점 및 볼일)
- * Can I get this to go? – 이거 포장해 주실 수 있나요?
- * I'm just browsing – 그냥 구경하고 있는 중이에요.
- * Can you point me in the right direction? – 방향 좀 알려주시겠어요?
-## 5. Travel & Being Out and About (여행 및 외출)
- * We're making good time – (지체 없이) 속도를 잘 내서 가고 있다.
- * Travel light – 짐을 가볍게 싸서 여행하다.
- * We're going to look around first – 일단 먼저 둘러볼 것이다.
- * Better safe than sorry – 나중에 후회하는 것보다 안전한 게 낫다 (유비무환).
- * Good timing – 타이밍이 딱 맞다!
- * This will do the trick – 이걸로 딱 해결되겠네(아쉬운 대로 효과가 있겠네).
- * I'm just going to throw something out there – (가볍게) 그냥 한 번 의견을 던져볼게요.
- * I'm leaning towards... – ~쪽으로 마음이 기운다.
- * If I'm not mistaken – 내가 틀리지 않았다면.
-## 6. Personal Opinions & Reflections (개인적인 의견 및 회상)
- * I'll speak for myself – (모두를 대변하는 건 아니고) 내 생각만 말하자면.
- * I don't want to speak for everyone – 모두의 의견을 대변하고 싶지는 않다.
- * I hate to admit it, but... – 인정하기 싫지만...
- * Wing it – (준비 없이) 즉흥적으로 하다.
- * Pace yourself – (지치지 않게) 속도를 조절하다.
- * Give it your all – 모든 것을 쏟아붓다 / 최선을 다하다.
- * Make the most of it – ~을 최대한 활용하다 / 알차게 보내다.
- * Pile in – (좁은 공간에) 빽빽이 몰려들어가다.
- * Be green – (경험이 없어) 풋내기다 / 미숙하다.
- * Some random... – 모르는 어떤 사람 / 뜬금없는 무언가.
- * A dog (on defense, work ethic) – (근성 있게) 악착같이 일하는 사람 / 끈질긴 사람.
- * Looking back on it / Looking back at it – 돌이켜보면.
- * Feel the magnitude of... – ~의 엄청난 규모(파급력)를 체감하다.
- * The glory days – (인생의) 전성기 / 리즈 시절.
- * All eyes are on you – 모든 시선이 너에게 집중되어 있다.
-## 7. Everyday Reaction Phrases (일상 반응 표현)
- * So far, so good – 지금까지는 아주 잘 되고 있어.
- * No complaints so far – 지금까지는 불만 없어.
- * It's growing on me – 갈수록 마음에 드네 / 점점 정이 가네.
- * I'm warming up to it – (처음엔 별로였지만) 마음이 점차 열리고 있다.
- * For some reason – 왠지 모르게 / 뜬금없이.
-## 8. Facing Everyday Challenges (일상의 난관 대처)
- * Wait something out – (상황이 지나갈 때까지) 차분히 기다리다.
- * Ride something out – (폭풍 등 힘든 시기를) 견뎌내다.
- * Take a toll on... – (~에게) 타격을 주다 / 서서히 지치게 만들다.
- * Wear someone down – ~를 지치게 하다 / 기를 꺾다.
- * Put your foot down – 단호하게 태도를 취하다 / 선을 긋다.
- * Draw a line here – 여기서 선을 긋다(더 이상은 안 된다).
-## 9. Explaining Thoughts & Conclusions (생각과 결론 도출)
- * It's all adding up – 모든 조각이 딱 맞아떨어지네 (이유를 알겠네).
- * Eye-opening – 눈이 번쩍 뜨이는 / 시야를 넓혀주는.
- * A wake-up call – 정신이 번쩍 들게 하는 일 (경종).
- * It's to be expected – 예상했던 일이다 / 당연하다.
- * The final touches / The finishing touches – 마지막 마무리를 하다.
- * Work my way over – (이런저런 일을 마치고) 천천히 그쪽으로 가다.
- * Long overdue – 훨씬 전에 이뤄졌어야 했다 (이미 때가 지났다).
-## 10. Modern & Slang Expressions (현대 표현 및 슬랭)
- * It's not that deep – 그렇게까지 심각한(진지한) 건 아니야.
- * It's safe to say... – ~라고 자신 있게 말할 수 있다.
- * Get to the bottom of this – 진상을 규명하다 / 원인을 파헤치다.
- * A layup – 아주 쉬운 일 (식은 죽 먹기).
- * Play it cool – 태연한 척하다 / 침착함을 유지하다.
- * Hold the phone – 잠깐만! (놀라거나 멈추게 할 때).
- * Put on some pounds – 살이 좀 찌다.
- * More than enough – 차고 넘치게 충분하다.
- * My brain short-circuited – 뇌가 과부하 걸렸다 / 생각이 멈췄다.
- * Give me a holler – 연락해 줘! / 소리쳐 불러!
- * Down bad – (사랑이나 상황에) 푹 빠졌거나, 몹시 곤경에 처했거나, 찌질할 때.
- * Get through to someone – ~에게 (내 뜻을) 제대로 전달하다 / 이해시키다.
- * IRL (In Real Life) – 현실 세계에서 (온라인이 아닌 실제).
- * Woo-woo – 과학적 근거 없는 신비주의적인 / 미신 같은.
- * A red herring – (관심을 다른 데로 돌리는) 엉뚱한 미끼 / 헛다리.
- * Give something life – ~에 생기를 불어넣다.
- * Own it – (잘못이나 책임을) 깔끔하게 인정하다.
- * Pigeonhole – (사람이나 재능을) 한계 지우다 / 틀에 가두다.
- * Bomb (a test/performance) – (시험이나 공연 등을) 완전히 망치다.
- * Build something up – (기대를) 부풀리다 / 과대 포장하다.
- * The right side of history / Go on record – 역사적으로 옳은 편에 서다 / 공식적으로 입장을 밝히다.
+지적해주신 get a tan(햇빛에 타다/구릿빛 피부를 만들다), Can I get ~?(~를 주시겠어요?) 같은 일상 회화의 핵심 표현들을 놓쳤네요!
+기존 내용에서 널리 쓰이는 실속 있는 원어민 표현들을 대폭 보강하여, 의미별로 더 알차게 구성한 Get 표현 100가지를 다시 정리해 드립니다.
+1. 일상 소비 및 주문 (Ordering & Shopping)
+ * Can I get a coffee? - 커피 한 잔 주시겠어요? (주문할 때 가장 흔히 쓰는 표현)
+ * Can I get the check, please? - 계산서 좀 주시겠어요?
+ * Get a deal - 좋은 거래를 성사시키다, 싸게 사다
+ * Get a refund - 환불받다
+ * Get a receipt - 영수증을 받다
+ * Get a bargain - 싼 물건을 건지다
+ * Get a quote - 견적을 받다
+ * Get an estimate - 견적을 내다
+ * Get a sample - 샘플을 받다
+ * Get online - 인터넷에 접속하다
+2. 신체 외모 및 건강 (Appearance & Health)
+ * Get a tan - 햇빛에 타다, 구릿빛 피부를 만들다
+ * Get a sunburn - 햇빛에 화상 입다
+ * Get a haircut - 머리를 자르다
+ * Get a manicure - 매니큐어를 받다, 손톱 손질을 하다
+ * Get a massage - 마사지를 받다
+ * Get in shape - 몸매를 가꾸다, 건강을 유지하다
+ * Get out of shape - 체력이 떨어지다, 몸매가 망가지다
+ * Get a checkup - 건강 검진을 받다
+ * Get a shot - 주사를 맞다
+ * Get pregnant - 임신하다
+3. 감정 및 기분 상태 (Feelings & Emotions)
+ * Get excited - 신이 나다, 흥분하다
+ * Get nervous - 긴장하다
+ * Get stressed - 스트레스를 받다
+ * Get bored - 지루해지다
+ * Get depressed - 우울해지다
+ * Get annoyed - 짜증이 나다
+ * Get embarrassed - 당황스럽다, 부끄러워지다
+ * Get scared - 무서워지다
+ * Get confused - 혼란스러워지다
+ * Get curious - 궁금해지다
+4. 사물 및 기회 획득 (Obtaining & Acquiring)
+ * Get attention - 관심을 끌다
+ * Get permission - 허락을 받다
+ * Get a chance - 기회를 얻다
+ * Get priority - 우선권을 얻다
+ * Get the hang of it - (요령을) 터득하다, 감을 잡다
+ * Get access to - ~에 접근 권한을 얻다
+ * Get an advantage - 유리한 고지를 점하다
+ * Get revenge - 복수하다
+ * Get a patent - 특허를 받다
+ * Get the green light - 승인을 받다, 허가떨어지다
+5. 이동 및 위치 변경 (Movement & Travel)
+ * Get home - 집에 도착하다
+ * Get to work - 회사에 도착하다
+ * Get away - 휴가를 가다, 떠나다
+ * Get back - 돌아오다
+ * Get in - (차에) 타다
+ * Get out - (방이나 차에서) 나가다
+ * Get on - (버스나 지하철에) 타다
+ * Get off - (버스나 지하철에서) 내리다
+ * Get across - (길을) 건너다, (뜻을) 전달하다
+ * Get through - (문이나 난관을) 통과하다, 빠져나가다
+6. 관계 및 사회적 상황 (Social & Relationships)
+ * Get married - 결혼하다
+ * Get engaged - 약혼하다
+ * Get divorced - 이혼하다
+ * Get along with - ~와 사이좋게 지내다
+ * Get acquainted with - ~와 알게 되다, 안면을 트다
+ * Get even with - ~에게 앙갚음하다
+ * Get close to - ~와 친해지다
+ * Get back together - (헤어졌다가) 다시 사귀다[결합하다]
+ * Get fired - 해고당하다
+ * Get hired - 채용되다, 고용되다
+7. 문제 해결 및 상황 대처 (Handling Situations)
+ * Get things done - 일을 처리하다[완료하다]
+ * Get ready - 준비하다
+ * Get started - 시작하다
+ * Get to the point - 본론으로 들어가다
+ * Get over it - 잊어버려라, 극복하다
+ * Get rid of - 없애다, 버리다
+ * Get around a problem - 문제를 우회하여 해결하다
+ * Get out of hand - 통제 불능이 되다
+ * Get into trouble - 곤경에 빠지다
+ * Get out of trouble - 곤경에서 벗어나다
+8. 주요 이어동사 및 구어체 (Phrasal Verbs & Idioms)
+ * Get up - 일어나다
+ * Get down - 내려오다, 우울하게 하다
+ * Get by - 그럭저럭 살아가다
+ * Get ahead - 출세하다, 성공하다
+ * Get back at - 복수하다
+ * Get behind - 뒤처지다
+ * Get across to - ~에게 이해시키다
+ * Get round to - (마침내) ~하게 되다
+ * Get smth off one's chest - (고민 등을) 털어놓다
+ * Get under one's skin - 신경을 긁다, 짜증 나게 하다
+9. 회화 필수 표현 (Essential Conversational Phrases)
+ * Get a life - 제대로 좀 살아라, 간섭 좀 마라
+ * Get real - 현실을 직시해라, 꿈 깨라
+ * Get a move on - 서두르다
+ * Get a grip - 정신 차리다, 진정하다
+ * Get a clue - 눈치 좀 채라, 정신 좀 차려라
+ * Get the picture - 상황을 파악하다
+ * Get the message - 눈치를 채다, 경고를 알아듣다
+ * Get off my back - 그만 좀 잔소리해라
+ * Get carried away - 흥분하다, 도를 넘다
+ * Get cracking - 빨리 시작하다
+10. 마무리 실속 표현 (Final Useful Expressions)
+ * Get one's way - 원하는 대로 하다
+ * Get a word in edgewise - 간신히 말할 틈을 얻다
+ * Get a load of this - 이것 좀 봐라
+ * Get a breath of fresh air - 바람을 쐬다, 기분 전환하다
+ * Get on someone's nerves - ~의 신경을 건드리다
+ * Get down to business - 본격적으로 일에 착수하다
+ * Get into character - (배우 등이) 배역에 몰입하다
+ * Get a room - (닭살 돋는 커플에게) 나가서 방 잡아라
+ * Get physical - 몸싸움을 벌이다
+ * Get the better of - ~를 이기다, (감정이) 압도하다
+
 
 ```
 
