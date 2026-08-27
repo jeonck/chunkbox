@@ -15,5 +15,18 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
+💼 실무 영어 표현 | DAY 01
+
+회의에서 진짜 자주 쓰는 표현 4가지예요.
+
+1️⃣ circle back to → 나중에 다시 얘기하다
+2️⃣ loop you in → 참조로 공유하다
+3️⃣ table this → 일단 보류하다
+4️⃣ touch base → 짧게 확인하다
+
+내일 회의에서 바로 써보세요 👇
+
+@Julian_EnglishClass
+#영어공부 #비즈니스영어 #실무영어 #직장인영어 #회의영어 영어표현 영어독학
 ```
 
