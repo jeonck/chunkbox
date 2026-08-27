@@ -15,15 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-동전 넣고 쓰는 곳도 많아요.
-
-"Do you have change?"
-= 잔돈 있으세요?
-
-"Is this machine taken?"
-= 이 기계 쓰는 중이에요?
-
-"How long is the cycle?"
-= 한 번 돌리는 데 얼마나 걸려요?
 ```
 
