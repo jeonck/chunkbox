@@ -15,5 +15,19 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
+이 리액션 하나면 원어민이랑 대화가 안 끊겨요 (한국인이 안 쓰는 10개)
+
+1. No biggie. — 별거 아니야
+2. Way to go! — 잘했어!
+3. Come on. — 에이, 왜 그래
+4. For real? — 진짜로?
+5. Makes sense. — 말 되네
+6. My pleasure. — 별말씀을요
+7. Not a chance. — 절대 안 되지
+8. Hang in there. — 조금만 버텨
+9. You got this. — 넌 할 수 있어
+10. Sounds about right. — 뭐 그럴듯하네
+
+리액션이 살아야 대화가 이어져요.￼
 ```
 
