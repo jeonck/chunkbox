@@ -15,6 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-my two cents
 ```
 
