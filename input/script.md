@@ -15,5 +15,19 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
+교과서엔 안 나오는 영어 프레이즈 12가지 🇺🇸
+
+넘어가 줄게 = I'll let it slide.
+조금만 참아줘 = Bear with me.
+솔직하게 말해줘 = Level with me.
+원점으로 돌아가자 = Back to square one.
+한발 물러서자 = Take a step back.
+속단하지 마 = Don't jump to conclusions.
+줄 서세요 = Get in line.
+더는 못 참아 = That does it.
+내 말 명심해 = Mark my words.
+말 함부로 하지 마 = Bite your tongue.
+위험한 짓 마 = Don't play with fire.
+정신 차려 = Get a grip.￼
 ```
 
