@@ -15,15 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-'투덜대다' 영어로 뭐라고 할까?
-
-① 덜렁대다 → Clumsy
-② 깐깐하다 → Particular
-③ 긍정적이다 → Upbeat
-④ 느긋하다 → Laid-back
-⑤ 자상하다 → Thoughtful
-⑥ 변덕스럽다 → Fickle
-⑦ 생색내다 → Take credit
-⑧ 투덜대다 → …￼
 ```
 
