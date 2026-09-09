@@ -15,5 +15,20 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
+2026년 9월 9일 수요일
+
+일정 조율이 한결 쉬워지는 표현들.
+
+미국 직장에서 매일 오가는 리얼 표현 5문장입니다.
+
+1. What does your schedule look like? — 일정이 어떻게 되세요?
+2. Wednesday works best for me. — 저는 수요일이 제일 좋아요
+3. Can we bump it up to Tuesday? — 화요일로 당길 수 있을까요?
+4. I’m double-booked that afternoon. — 그날 오후엔 일정이 겹쳐 있어요
+5. Let‘s lock it in for Thursday. — 목요일로 확정하시죠
+
+캘린더 앞에서 더 이상 머뭇거리지 마세요.
+
+영화, 다큐, TED로 배우는 성인 리얼 영어 — 마천문Pro.… show hashtags
 ```
 
