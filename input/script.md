@@ -15,15 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-'일정 조정' 영어로 뭐라고 할까?
-
-일정 앞당기기 → Move up
-일정 뒤로 미루기 → Push back
-일정을 재조정하기 → Reschedule
-날짜/일정 확정하기 → Lock in
-마감일 연장하기 → Extend the deadline
-일정 비워두기 → Keep a slot open
-일정을 서로 맞추다 → Align schedules
-우선순위 조정하기 → Reprioritize￼
 ```
 
