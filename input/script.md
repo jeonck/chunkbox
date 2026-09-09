@@ -15,15 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-【컨디션 & 몸 상태 관련 영어 표현】
-
-몸이 찌뿌둥한 → Sluggish
-속이 미식거리는 → Nauseous
-어지러운 → Dizzy
-코가 막힌 → Stuffy
-목이 쉰 → Hoarse
-멍이 든 → Bruised
-술이 깨다 → Sober up
-시차 적응 중인 → …￼
 ```
 
