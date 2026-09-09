@@ -15,15 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-【'몸의 생리현상·감각' 관련 영어 표현】
-
-① 다리에 쥐가 났다 → I have a cramp
-② 발이 저리다 → My foot is numb
-③ 눈이 경련을 일으킨다 → My eye is twitching
-④ 딸꾹질이 그치지 않는다 → Have the hiccups
-⑤ 하품이 자꾸 나온다 → Keep yawning
-⑥ 발음이 자꾸 꼬인다 → Slur my words
-⑦ 온몸이 쑤시고 아프다 → Feel sore
-⑧ 맛있는 걸 봐서 침이 고인다 → …￼
 ```
 
