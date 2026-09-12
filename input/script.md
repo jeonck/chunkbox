@@ -15,16 +15,30 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-'딜을 매듭짓다' 영어로 뭐라고 할까?
+!!!아쉽다 총정리!!!
 
-① 계약을 매듭짓다 → Seal the deal
-② 타협점을 찾다 → Find common ground
-③ 최종 조건을 확정하다 → Finalize the terms
-④ 한발 물러서다/양보하다 → Give ground
-⑤ 협상 결렬 요인 → Deal breaker
-⑥ 최종 합의에 도달하다 → Reach a consensus
-⑦ 까다롭게 협상하다 → Drive a hard bargain
-⑧ 양측 모두에게 이득인 상황 → Win-win situation
-⑨ 판도를 바꾸는 결정적 요소 → Game changer￼
+아쉽네요
+It's a shame.
+That's too bad.
+
+아쉽다 (헤어질 때)
+I wish we had more time.
+I hate to leave.
+
+아쉬운 결과
+It could have been better.
+We were so close.
+
+아쉬운 부분이 있어 (피드백)
+There's room for improvement.
+It's missing something.
+
+아쉽지만 (거절하면서)
+Unfortunately...
+I'd love to, but...
+
+아쉽게 됐네요 (남 일에)
+Sorry to hear that.
+That's a bummer.￼
 ```
 
