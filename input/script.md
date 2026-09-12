@@ -15,15 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-돈이 쪼들리는 → Broke
-값이 나가는 → Pricey
-바가지 쓴 → Overpriced
-가성비 좋은 → Good value
-알뜰한 → Thrifty
-사치스러운 → Extravagant
-공짜인 → On the house
-더치페이하다 → Split the bill
-본전 뽑다 → G__ your money's worth 
-
 ```
 
