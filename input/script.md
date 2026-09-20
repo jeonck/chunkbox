@@ -15,16 +15,5 @@
     that link is carried through to a Reference section at the bottom of the post.
 -->
 ```
-운전할 때 이런 말 쓰죠 🚗
-
-끼어들다 → Cut in
-막히다 → Backed up
-과속하다 → Speed
-깜빡이 켜다 → Signal
-급정거하다 → Slam the brakes
-양보하다 → Yield
-후진하다 → Back up
-주차하다 → Park
-난폭운전하는 → R_______￼
 ```
 
