@@ -273,8 +273,8 @@ def parse_chunks_response(text: str) -> list[dict] | None:
     raw = data.get("chunks")
     if not isinstance(raw, list):
         return None
-    chunks = [c for item in raw if (c := normalize_chunk_item(item))]
-    return chunks or None
+    # 빈 리스트도 유효한 응답(청크가 없는 배치) — 전체가 비는 경우는 process_item이 처리
+    return [c for item in raw if (c := normalize_chunk_item(item))]
 
 
 def parse_final_response(text: str) -> dict | None:
